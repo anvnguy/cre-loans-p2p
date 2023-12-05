@@ -1,0 +1,22 @@
+{
+  "name": "cre-loans-p2p",
+  "version": "1.0.0",
+  "description": "anvndev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anvnguy/cre-loans-p2p.git"
+  },
+  "author": "anvndev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anvnguy/cre-loans-p2p/issues"
+  },
+  "homepage": "https://github.com/anvnguy/cre-loans-p2p#readme",
+  "dependencies": {
+    "react-native": "^0.72.7"
+  }
+}
