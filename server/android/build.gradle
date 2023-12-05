@@ -4,7 +4,7 @@ buildscript {
     ext {
         buildToolsVersion = "33.0.0"
         minSdkVersion = 21
-        compileSdkVersion = 34
+        compileSdkVersion = 33
         targetSdkVersion = 33
 
         // We use NDK 23 which has both M1 support and is the side-by-side NDK version from AGP.
@@ -16,7 +16,6 @@ buildscript {
     }
     dependencies {
         classpath("com.android.tools.build:gradle")
-        implementation fileTree(include: ['*.jar'], dir: 'libs')
-        implementation "com.facebook.react:react-native:+"
+        classpath("com.facebook.react:react-native-gradle-plugin")
     }
 }
