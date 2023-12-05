@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/anvnguy/cre-loans-p2p/issues"
   },
-  "homepage": "https://github.com/anvnguy/cre-loans-p2p#readme"
+  "homepage": "https://github.com/anvnguy/cre-loans-p2p#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
