@@ -4,7 +4,7 @@
 - Node.js
 ## Deploy
 - [Hyperledger](https://hyperledger-fabric.readthedocs.io/en/release-2.5/test_network.html)
-- [Heroku](https://www.heroku.com/)
+- [Render](https://dashboard.render.com/)
 - [Hyperledger Composer Node.js SDK](https://github.com/hyperledger/composer)
 - [Hyperledger Composer CLI](https://github.com/hyperledger/composer)
 - [Hyperledger Composer Playground](http://composer-playground.mybluemix.net/)
