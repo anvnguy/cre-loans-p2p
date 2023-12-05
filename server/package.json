@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Connect to Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anvnguy/cre-loans-p2p.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "An Van Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anvnguy/cre-loans-p2p/issues"
+  },
+  "homepage": "https://github.com/anvnguy/cre-loans-p2p#readme"
+}
