@@ -20,6 +20,8 @@
     "express": "^4.18.2",
     "fabric-network": "^2.2.20",
     "mongoose": "^8.0.2",
-    "react-native": "^0.72.7"
-  }
+    "react-native": "^0.72.7",
+    "twilio": "^4.19.3"
+  },
+  "keywords": []
 }
