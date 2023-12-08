@@ -1,0 +1,32 @@
+{
+	"test":{
+		"MONGODB_URI": "mongodb://localhost:27017/dbavn-loanp2p",
+		"PORT": 3000,
+    "connection": "Username-Password-Authentication",
+    "user_id": "6572835fa1027c81f5dc5107",
+    "provider": "auth0",
+    "isSocial": false,
+		"TWILLIO_ACCOUNT_ID": "AC27bdbf9772a4b0811d1e506fee15f932",
+		"TWILLIO_ACCOUNT_TOKEN": "139435e09b1e72652e71a7c7897a5966",
+		"TWILLIO_PHONE_NUMBER": "+19546211391",
+		"HLFV1_ADMIN_CARD": "",
+		"HLFV1_NAMESPACE": "",
+		"HLFV1_VERSION": 1,
+		"NETWORK_NAME": "",
+		"NOTES": 3
+	},
+  	"development":{
+    "MONGODB_URI": "mongodb://localhost:27017/dbavn-loanp2p",
+    "PORT": 3000,
+		"JWT_PAYLOAD": "auth_token_payload",
+		"JWT_AUTH": "AUTH_P2PLENDING",
+		"TWILLIO_ACCOUNT_ID": "AC27bdbf9772a4b0811d1e506fee15f932",
+		"TWILLIO_ACCOUNT_TOKEN": "139435e09b1e72652e71a7c7897a5966",
+		"TWILLIO_PHONE_NUMBER": "+19546211391",
+		"HLFV1_ADMIN_CARD": "",
+		"HLFV1_NAMESPACE": "",
+		"HLFV1_VERSION": 1,
+		"NETWORK_NAME": "",
+		"NOTES": 3
+	}
+}
